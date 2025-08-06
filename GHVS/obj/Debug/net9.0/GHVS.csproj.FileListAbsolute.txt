@@ -1,0 +1,14 @@
+C:\Users\aluno_Analytics.CENTRO40.000\Documents\vscode\GHVS\bin\Debug\net9.0\GHVS.exe
+C:\Users\aluno_Analytics.CENTRO40.000\Documents\vscode\GHVS\bin\Debug\net9.0\GHVS.deps.json
+C:\Users\aluno_Analytics.CENTRO40.000\Documents\vscode\GHVS\bin\Debug\net9.0\GHVS.runtimeconfig.json
+C:\Users\aluno_Analytics.CENTRO40.000\Documents\vscode\GHVS\bin\Debug\net9.0\GHVS.dll
+C:\Users\aluno_Analytics.CENTRO40.000\Documents\vscode\GHVS\bin\Debug\net9.0\GHVS.pdb
+C:\Users\aluno_Analytics.CENTRO40.000\Documents\vscode\GHVS\obj\Debug\net9.0\GHVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno_Analytics.CENTRO40.000\Documents\vscode\GHVS\obj\Debug\net9.0\GHVS.AssemblyInfoInputs.cache
+C:\Users\aluno_Analytics.CENTRO40.000\Documents\vscode\GHVS\obj\Debug\net9.0\GHVS.AssemblyInfo.cs
+C:\Users\aluno_Analytics.CENTRO40.000\Documents\vscode\GHVS\obj\Debug\net9.0\GHVS.csproj.CoreCompileInputs.cache
+C:\Users\aluno_Analytics.CENTRO40.000\Documents\vscode\GHVS\obj\Debug\net9.0\GHVS.dll
+C:\Users\aluno_Analytics.CENTRO40.000\Documents\vscode\GHVS\obj\Debug\net9.0\refint\GHVS.dll
+C:\Users\aluno_Analytics.CENTRO40.000\Documents\vscode\GHVS\obj\Debug\net9.0\GHVS.pdb
+C:\Users\aluno_Analytics.CENTRO40.000\Documents\vscode\GHVS\obj\Debug\net9.0\GHVS.genruntimeconfig.cache
+C:\Users\aluno_Analytics.CENTRO40.000\Documents\vscode\GHVS\obj\Debug\net9.0\ref\GHVS.dll
