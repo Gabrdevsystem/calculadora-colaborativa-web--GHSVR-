@@ -6,39 +6,26 @@ namespace CalculadoraWeb
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Calculadora Colaborativa Web");
-            // Integrante 1: Implementar menu e chamar as funções
-        }
+            Console.WriteLine("Calculadora Colaborativa ");
+                   }
 
         // Integrante 1
-        public static double Adicao(double a, double b)
-        {
-            return a + b;
-        }
+       Console.WriteLine("Soma");
+       
 
         // Integrante 2
-        // public static double Subtracao(double a, double b)
-        // {
-        //     // Implementar aqui
-        // }
+       Console.WriteLine("Subtração");
+      
 
         // Integrante 3
-        // public static double Multiplicacao(double a, double b)
-        // {
-        //     // Implementar aqui
-        // }
+       Console.WriteLine("Multiplicação");
 
+        
         // Integrante 4
-        // public static double Divisao(double a, double b)
-        // {
-        //     // Implementar aqui
-        // }
+        Console.WriteLine("Divisão");
 
-
-  // Integrante 5
-        // public static double Potenciacao(double a, double b)
-        // {
-        //     // Implementar aqui
-        // }
+       // Integrante 5
+        Console.WriteLine("potenciação");
     }
 }
+
